@@ -24,7 +24,7 @@ echo '
     <div class="md-lg-12 header-dividing">
         <ul class="nav nav-pills">
             <li class="active"><a href="index.php">首页</a></li>
-            <li><a href="https://github.com/gitlikai" target="_blank">GitHub<span class="label label-badge label-success"></span></a></li>
+            <li><a href="https://github.com/gitlikai/imgs" target="_blank">GitHub<span class="label label-badge label-success"></span></a></li>
             <li><a href="tinyfilemanager.php?p='.urlencode(date('Y/m/d')).'" target="_blank">关注<span class="label label-badge label-success"></span></a></li>
             <li><a class="dropdown-toggle hidden-xs" data-toggle="dropdown" href="#">二维码<span class="caret"></span></a>
                 <ul class="dropdown-menu">
